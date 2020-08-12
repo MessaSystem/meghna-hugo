@@ -8,16 +8,16 @@ contact:
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Via Corradino Sella, 10 Biella (BI)"
+      info : "Via Corradino Sella, 10 Biella (BI) Italy"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Telefono: +39 015-8120454"
+      info : "Phone: +39 015-8120454"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
       info : "WhatsApp: +39 015-8120454"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Mail: info@messasystem.com"
+      info : "Email: info@messasystem.com"
 
 
   # Contact form
