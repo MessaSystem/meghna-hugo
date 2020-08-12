@@ -82,7 +82,7 @@ weight = 7
 logo = "images/logo.png"
 # Meta data
 description = ""
-author = "Pietro Bardone"
+author = "Pietro Bardone aka p3pp01"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -96,7 +96,7 @@ preloader = "images/logo.png"
 # google map
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=85e247490dac461a"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
