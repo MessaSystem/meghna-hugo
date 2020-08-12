@@ -81,8 +81,8 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+description = ""
+author = "Pietro Bardone"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
