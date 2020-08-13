@@ -1,9 +1,9 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Contact us to receive a free quote tailored to your requests!
+  title : Contatti
+  subtitle :
+  content : Contattaci per ricevere un preventivo gratuito in base alle tue esigenze!
 
   # Contact details
   contact_list:
@@ -11,7 +11,7 @@ contact:
       info : "Via Corradino Sella, 10 Biella (BI) Italy"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +39 015-8120454"
+      info : "Telefono: +39 015-8120454"
       
     - icon : ti-comments-smiley # themify icon pack : https://themify.me/themify-icons
       info : "WhatsApp: +39 015-8120454"
@@ -24,8 +24,8 @@ contact:
   contact_form:
     enable : true
     form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    name : "Nome"
+    email : "Email"
+    subject : "Oggetto"
+    message : "Messaggio"
+    submit : "Inviaci il messaggio"
