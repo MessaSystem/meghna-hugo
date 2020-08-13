@@ -132,16 +132,16 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 copyright = "copyright &copy; 2020 MessaSystem, all right reserved"
 
 ################################ Italian Language ########################
 [Languages.it]
-languageName = "IT"
+languageName = "It"
 languageCode = "it-it"
 contentDir = "content/italian"
-weight = 2
+weight = 1
 home = "Home"
 copyright = "copyright &copy; 2020 MessaSystem, Tutti i diritti riservati"
 
