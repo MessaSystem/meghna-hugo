@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
+  icon : "ti-arrow-down" # themify icon pack : https://themify.me/themify-icons
   title : "Sei pronto ad una rivoluzione?"
   content : "Sei veramente pronto a questa nuova rivoluzione digitale, che porterà la tua azienda a concepire il digitale in sotto una nuova ottica"
   button:
