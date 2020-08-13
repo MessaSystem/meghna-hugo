@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : Contact us to receive a free quote tailored to your requests!
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Via Corradino Sella, 10 Biella (BI) Italy"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +39 015-8120454"
+      
+    - icon : ti-comments-smiley # themify icon pack : https://themify.me/themify-icons
+      info : "WhatsApp: +39 015-8120454"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: info@messasystem.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"
