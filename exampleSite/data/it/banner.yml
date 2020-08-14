@@ -8,5 +8,5 @@ banner:
   content : "Sei veramente pronto a questa nuova rivoluzione digitale, che porterà la tua azienda a concepire il digitale in sotto una nuova ottica"
   button:
     enable : true
-    label : "Continua"
+    label : "Partiamo"
     link : "#feature"
