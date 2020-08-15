@@ -117,6 +117,16 @@ icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 
+################################ Italian Language ########################
+[Languages.it]
+languageName = "It"
+languageCode = "it-it"
+contentDir = "content/italian"
+weight = 1
+home = "Home"
+copyright = "copyright &copy; 2020 MessaSystem, Tutti i diritti riservati"
+
+
 ################################ English Language ########################
 [Languages.en]
 languageName = "En"
@@ -126,14 +136,6 @@ weight = 2
 home = "Home"
 copyright = "copyright &copy; 2020 MessaSystem, all right reserved"
 
-################################ Italian Language ########################
-[Languages.it]
-languageName = "It"
-languageCode = "it-it"
-contentDir = "content/italian"
-weight = 1
-home = "Home"
-copyright = "copyright &copy; 2020 MessaSystem, Tutti i diritti riservati"
 
 ################################ France Language ########################
 [Languages.fr]
