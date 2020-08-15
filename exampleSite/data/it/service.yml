@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Cosa ti offriamo
+  title : Cosa offriamo
   service_item :
     # service item loop
     - name : WordPress Theme
