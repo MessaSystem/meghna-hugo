@@ -87,8 +87,8 @@ preloader = "images/logo.png"
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCEiJq9nFTIho4_OGNf3Ta-hzCmxMPx57I"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "45.5718207"
+map_longitude = "8.0564784"
 map_marker = "images/marker.png"
 
 ############################# social icons ##########################
