@@ -1,10 +1,10 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : I nostri lavori
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Scuola di Formazione Politica
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["design"]
@@ -12,7 +12,7 @@ portfolio:
       link : "https://themefisher.com"
       
     # portfolio item loop
-    - name : Sound system
+    - name : Promitora
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
       categories : ["development"]
